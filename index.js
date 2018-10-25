@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const contentful = require('contentful');
 const env = require('common-env/withLogger')(console);
 const fs = require('fs');
