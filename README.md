@@ -65,7 +65,7 @@ The following variables can/must be configured:
 |---|---|---|
 | `CONTENTFUL_SPACE` |  | Space ID, as given by Contentful. |
 | `CONTENTFUL_ACCESS_TOKEN` |  | Access token, as given by Contentful. Depending on the value of `CONTENTFUL_PREVIEW`, this should be the _Content Delivery API_ or the _Content Preview API_. |
-| `CONTENTFUL_PREVIEW` | `0` | If the value if `1`, use the _Preview API_. Else use the _Delivery API_. |
+| `CONTENTFUL_PREVIEW` | `false` | If the value if `true`, use the _Preview API_. Else use the _Delivery API_. |
 | `CONTENTFUL_CONTENT_TYPE_ID` |  | The ID of the _Content Type_ you want to fetch, as you defined in the _Content Model_ of your space on Contentful. |
 | `CONTENTFUL_LOCALE` |  | The locale to fetch. For example: `fr-FR`. |
 | `CONTENTFUL_CONTENT_FIELD` | `content` | The field of your _Content Type_ that should be considered as the main content and put in the body of the Markdown file. |

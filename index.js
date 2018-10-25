@@ -13,7 +13,7 @@ const config = env.getOrElseAll({
   contentful: {
     space: { $type: env.types.String },
     access_token: { $type: env.types.String, $secure: true },
-    preview: { $type: env.types.Boolean, $default: '0' },
+    preview: { $type: env.types.Boolean, $default: 'false' },
     content_type_id: { $type: env.types.String },
     locale: { $type: env.types.String },
     content_field: { $type: env.types.String, $default: 'content' },
