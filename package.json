@@ -24,8 +24,8 @@
   "homepage": "https://github.com/dsferruzza/contentful2md#readme",
   "dependencies": {
     "common-env": "^6.3.0",
-    "contentful": "^7.0.5",
-    "js-yaml": "^3.12.0",
+    "contentful": "^7.1.0",
+    "js-yaml": "^3.12.1",
     "mkdirp": "^0.5.1"
   },
   "bin": {
