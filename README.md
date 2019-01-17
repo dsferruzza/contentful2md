@@ -1,5 +1,9 @@
 # contentful2md
 
+[![LICENSE](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![npm](https://img.shields.io/npm/v/contentful2md.svg)](https://www.npmjs.com/package/contentful2md)
+[![Get help on Codementor](https://cdn.codementor.io/badges/get_help_github.svg)](https://www.codementor.io/dsferruzza?utm_source=github&utm_medium=button&utm_term=dsferruzza&utm_campaign=github)
+
 Fetch entries from a [Contentful](https://www.contentful.com/) space and write them as Markdown files.
 
 ## Motivation
