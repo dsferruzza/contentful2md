@@ -1,6 +1,6 @@
 {
   "name": "contentful2md",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Fetch entries from a Contentful space and write them as Markdown files",
   "main": "index.js",
   "scripts": {
